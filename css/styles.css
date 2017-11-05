@@ -1,0 +1,87 @@
+@import url(reset.css)
+
+/* MAIN STYLES */
+
+/*html {
+	background-color: #E3E3E3;
+
+}*/
+
+#body {
+
+}
+#container{
+	width: 1600 pt;
+	margin: auto;
+	background-color: #E3E3E3;
+}
+
+#header{
+	width: 1600pt;
+	height: 600pt;
+}
+
+#span {
+	color: #2ECC71;
+	size: 7pt;
+}
+
+#slogan #h1{
+	position: absolute;
+	top: -150pt;
+}
+
+#slogan #p {
+	font: 24pt; Hevletica Nue,
+	line-height: 40pt;
+}
+
+#os-icons {
+	float: left;
+}
+
+#features{
+	height: 460pt;
+	background-color: #ffffff;
+}
+
+#feature1, #feature-star, #feature-earth{
+	float: left;
+	color: #848484;
+	width: 280pt;
+
+}
+
+#main {
+	height: 440pt;
+	position: relative;
+
+}
+#testemonials{
+	height: 460pt;
+	background-color: #ffffff;
+}
+
+#footer {
+	height: 130pt;
+}
+
+#navigation {
+	font-size: 16pt;
+	font-family: HevleticaNue;
+	margin-right: 30pt;
+	padding-top: 60pt;
+	padding-bottom: 50pt;
+	padding-right: 550pt;
+
+
+
+
+}
+
+#navigation{
+	float: left;
+	color: #848484;
+	
+}
+
